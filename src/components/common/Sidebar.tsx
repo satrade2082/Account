@@ -50,7 +50,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ mobileOpen = false, setMobileO
   }[] = [
     {
       id: 'dashboard',
-      label: 'Executive Dashboard',
+      label: 'Dashboard',
       icon: LayoutDashboard,
       group: 'OVERVIEW',
     },
