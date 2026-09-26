@@ -1,0 +1,6 @@
+{
+  "name": "OmniStock ERP - Sales, Purchase & Inventory Management",
+  "description": "Comprehensive Sales, Purchase, Category, and Inventory Management system tailored for business in Nepal, featuring 13% VAT Tax Invoices, NPR currency, POS with Fonepay QR / eSewa / Cash, Customer & Vendor Khata ledgers, and live stock tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
