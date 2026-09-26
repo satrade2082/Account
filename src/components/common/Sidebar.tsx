@@ -54,6 +54,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ mobileOpen = false, setMobileO
       icon: LayoutDashboard,
       group: 'OVERVIEW',
     },
+    /*
     {
       id: 'pos',
       label: 'POS Register',
@@ -62,6 +63,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ mobileOpen = false, setMobileO
       badgeColor: 'bg-[#A7C4BC]/30 text-[#F4F1EA] border-[#A7C4BC]/40',
       group: 'OPERATIONS',
     },
+    */
     {
       id: 'sales',
       label: 'Sales & Invoices',
